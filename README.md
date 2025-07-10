@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agenorrneto
 - 👀 I’m interested in Bioinformatics, biological sequences and algorithms
-- 🌱 I’m currently an undergraduate student of Biomedical Science at Federal University of Pernambuco, Recife, Brazil
+- 🌱 I’m currently an PhD student in Bioinformatics at University of São Paulo, USP, Brazil.
 - 📫 How to reach me: mail me  at agenorrneto@gmail.com
 
 <!---
