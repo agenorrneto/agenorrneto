@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agenorrneto
-- 👀 I’m interested in Bioinformatics, biological sequences and algorithms
+- 👀 I’m interested in the Human Genome and Human Genetic Variation
 - 🌱 I’m currently an PhD student in Bioinformatics at University of São Paulo, USP, Brazil.
 - 📫 How to reach me: mail me  at agenorrneto@gmail.com
 
